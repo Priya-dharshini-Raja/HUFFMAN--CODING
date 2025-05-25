@@ -24,10 +24,6 @@ print the characters and its huffmancode.
  
 ## Program:
 ```
-
-Developed by : PRIYADHARSHINI RAJA
-Register no  : 212223230160
-
  Python
 # Get the input String
 string ="RIYA P L"
